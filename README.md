@@ -1,5 +1,4 @@
-
-```markdown
+markdown
 # 💰 Discount Price Calculator
 
 A simple Python program that calculates the final price of an item after applying a discount (if eligible).  
@@ -45,4 +44,5 @@ print(f"Final price: ${final_price:.2f}")
 - **🔒 Input Validation:** Ensure prices/discounts are positive numbers.
 - **📈 Tiered Discounts:** Add rules like "30% off for $200+ purchases".
 - **📦 Multi-Item Support:** Calculate discounts for a shopping cart.
+
 
